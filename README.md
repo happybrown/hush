@@ -42,10 +42,11 @@ Android 7.0+ · 10 languages · light and dark
   swipe in from the side of a page to go back or forward, swipe a notice away.
 - **Search engines**: Google or Naver, or any site you can search, added with its results'
   address (`%s` where the words go).
-- **Suggestions** from your bookmarks, history, open tabs and Google or Naver. Never sent from
-  an incognito tab, nor to a search engine you added.
-- **Start page** for new tabs: a search box, and the sites you visit most on a card of their
-  own, each with its own icon. An incognito tab's says instead what it does not keep and who
+- **Suggestions** from your bookmarks, history, open tabs and Google or Naver, with your
+  favourite sites as tiles to tap before you type. Never sent from an incognito tab, nor to a
+  search engine you added.
+- **Start page** for new tabs: a search box, your bookmarks, and the sites you visit most, each
+  with its own icon. Drag a bookmark to the top of the list to put it there. An incognito tab's says instead what it does not keep and who
   can still see.
 - **Launcher shortcuts**: long-press the app icon for New tab or New incognito tab.
 - **Share to Hush** from any app: the link in what you share opens in a new tab, without its
@@ -136,6 +137,7 @@ Android 7.0+ · 10 languages · light and dark
 - **Tab switcher** with a picture of each page: swipe to close with undo, drag to reorder, and
   incognito tabs kept apart.
 - **Recently closed tabs**, and undo right after you close one.
+- **Unused tabs** free their memory, and can close by themselves after 1 to 90 days.
 - **Tabs come back** on the next launch, and only the one in front loads at startup.
 - **History** by day, with search.
 - **Bookmarks** with search, editing and drag to reorder. Import and export as a standard
@@ -165,7 +167,7 @@ Android 7.0+ · 10 languages · light and dark
 
 ## Download
 
-**[Hush 1.3.2](releases/1.3.2/Hush-1.3.2.apk)** · 3.4 MB · Android 7.0 or later ·
+**[Hush 1.3.3](releases/1.3.3/Hush-1.3.3.apk)** · 3.4 MB · Android 7.0 or later ·
 [what's new](CHANGELOG.md)
 
 1. Download the APK on your phone and open it.
@@ -179,12 +181,12 @@ Picture-in-picture needs Android 8.0, launcher shortcuts Android 7.1.
 Every version is signed with the same key. Android refuses an update signed by any other, so
 an APK that installs over Hush came from here.
 
-- APK SHA-256: `56ace010a83ce8cb7954798c72097ad374ae2ef014a52c25b4d610b71567494e`
+- APK SHA-256: `ce77da42156aa8cb75125b2ac4ea4088cc6b2e5e9362f811952f502eb7bbccff`
 - Signing certificate SHA-256: `00:37:AE:C5:11:EF:6B:A7:37:50:6D:24:BD:AC:64:54:04:EE:37:1E:F1:F1:4D:F2:4A:FC:B6:5F:D3:67:8E:52`
 
 ```sh
-shasum -a 256 Hush-1.3.2.apk
-apksigner verify --print-certs Hush-1.3.2.apk
+shasum -a 256 Hush-1.3.3.apk
+apksigner verify --print-certs Hush-1.3.3.apk
 ```
 
 ## Privacy
