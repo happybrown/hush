@@ -7,6 +7,10 @@ Versions 1.3.6 and 1.3.8 were built but never released. ·
 
 ## English
 
+### 1.4.4 — 2026-11-01
+
+- No changes to the app itself. This version is here so that Check for updates has a newer version to find and can be tried end to end.
+
 ### 1.4.3 — 2026-11-01
 
 - Turning on Check for updates (Settings › About) now looks right away and tells you what it found: a newer version with a link to it, that you have the latest, or that GitHub couldn't be reached. After that it checks once a day, as before.
@@ -100,6 +104,10 @@ Versions 1.3.6 and 1.3.8 were built but never released. ·
 - The privacy policy says so; you'll see a one-time notice of the change.
 
 ## 한국어
+
+### 1.4.4 — 2026-11-01
+
+- 앱 자체에는 바뀐 점이 없습니다. '업데이트 확인'이 새 버전을 찾는 과정을 처음부터 끝까지 시험해 볼 수 있도록 낸 버전입니다.
 
 ### 1.4.3 — 2026-11-01
 
