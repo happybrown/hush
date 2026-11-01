@@ -10,7 +10,7 @@ analytics or ad SDKs.
 ## Download
 
 **[Hush 1.3.9](releases/1.3.9/Hush-1.3.9.apk)** · 3.4 MB · Android 7.0 or later · [What's new](CHANGELOG.md) ·
-[Earlier versions](https://github.com/happybrown/hush/releases)
+[Earlier versions](releases)
 
 1. Download the APK on your phone and open it.
 2. If asked, allow installing unknown apps.

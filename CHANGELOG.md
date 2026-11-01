@@ -2,6 +2,9 @@
 
 [English](#english) · [한국어](#한국어)
 
+Versions missing from the list (1.3.6, 1.3.8) were built but never released. ·
+목록에 없는 버전(1.3.6, 1.3.8)은 빌드만 되고 배포되지 않았습니다.
+
 ## English
 
 ### 1.3.9 — 2026-11-01

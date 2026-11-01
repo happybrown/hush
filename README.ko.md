@@ -10,7 +10,7 @@
 ## 내려받기
 
 **[Hush 1.3.9](releases/1.3.9/Hush-1.3.9.apk)** · 3.4 MB · Android 7.0 이상 · [새로운 점](CHANGELOG.md) ·
-[이전 버전](https://github.com/happybrown/hush/releases)
+[이전 버전](releases)
 
 1. 휴대전화에서 APK를 내려받아 엽니다.
 2. 물으면 '출처를 알 수 없는 앱 설치'를 허용합니다.
