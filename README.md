@@ -22,7 +22,7 @@ analytics or ad SDKs.
   to the edge.
 - **Hide with a tap** — tap an ad or banner and it is gone on every page of that site.
 - **Ad and tracker blocking** — on from the start.
-- **Easier YouTube** — ads skipped, keeps playing with the screen off, picks up where you
+- **Easier YouTube** — skips ads, keeps playing with the screen off, picks up where you
   stopped.
 - **Privacy** — tracking codes taken out of links, incognito tabs that leave nothing behind.
 - **Password manager** — encrypted on your phone, filled only on the right site.

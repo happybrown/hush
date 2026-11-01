@@ -2,15 +2,15 @@
 
 [English](#english) · [한국어](#한국어)
 
-Versions missing from the list (1.3.6, 1.3.8) were built but never released. ·
-목록에 없는 버전(1.3.6, 1.3.8)은 빌드만 되고 배포되지 않았습니다.
+Versions 1.3.6 and 1.3.8 were built but never released. ·
+1.3.6과 1.3.8은 빌드만 되고 배포되지 않았습니다.
 
 ## English
 
 ### 1.3.9 — 2026-11-01
 
 - When you tap the address bar, your bookmarks (or most visited sites) and your history now sit in two sections, each under its own heading.
-- The buttons at the bottom of the tab overview (Close all, New tab, incognito) are lower and lighter, leaving more room for your tabs.
+- The buttons at the bottom of the tab switcher (Close all, New tab and the incognito button) are lower and lighter, leaving more room for your tabs.
 
 ### 1.3.7 — 2026-11-01
 
@@ -51,8 +51,7 @@ Versions missing from the list (1.3.6, 1.3.8) were built but never released. ·
 
 ### 1.3.2 — 2026-11-01
 
-- Pages that open in other browsers no longer stop on a certificate warning, most of all in the
-  middle of a redirect. A bad certificate on something a page loads (a picture, a script, an
+- Pages that open in other browsers no longer stop on a certificate warning, especially in the middle of a redirect. A bad certificate on something a page loads (a picture, a script, an
   ad) is refused quietly, as other browsers do; only the page's own address is asked about.
 - A site without working `https` opens over `http`, as in other browsers, instead of ending on
   an error page. `https` is still tried first, and an `https` page never loads anything over
@@ -64,7 +63,7 @@ Versions missing from the list (1.3.6, 1.3.8) were built but never released. ·
 ### 1.3.9 — 2026-11-01
 
 - 주소창을 누르면 북마크(또는 자주 방문한 사이트)와 방문 기록이 각자 제목이 붙은 두 섹션으로 나뉘어 나옵니다.
-- 탭 화면 아래의 버튼(모두 닫기, 새 탭, 시크릿)을 낮고 가볍게 다듬어 탭이 보이는 자리가 넓어졌습니다.
+- 탭 목록 아래의 버튼(모두 닫기, 새 탭, 시크릿 버튼)을 낮고 가볍게 다듬어 탭이 보이는 자리가 넓어졌습니다.
 
 ### 1.3.7 — 2026-11-01
 
@@ -73,7 +72,7 @@ Versions missing from the list (1.3.6, 1.3.8) were built but never released. ·
 ### 1.3.5 — 2026-11-01
 
 - **노치로 접히는 주소창.** 읽는 동안 페이지가 화면 끝까지 넓어지고, 주소창은 화면 아래 가장자리에서
-  솟아오른 반투명한 작은 노치가 되어 사이트 이름을 보여 줍니다. 로딩 진행을 사이트 색으로 보여 주고,
+  솟아오른 반투명한 작은 노치가 되어 사이트 이름을 보여 줍니다. 가장자리를 따라 로딩 진행 상황을 사이트 색으로 보여 주고,
   페이지 끝에서는 비켜납니다. 누르면 주소창이 다시 나옵니다.
 - **북마크는 메뉴에서.** 별 버튼을 주소창에서 메뉴 맨 윗줄로 옮겨 주소가 들어갈 자리를 넓혔습니다.
 - **탭을 넘길 때 어디로 가는지 표시.** 주소창을 옆으로 밀면 넘어갈 탭의 이름과 위치("2/5")가 나옵니다.
@@ -81,7 +80,7 @@ Versions missing from the list (1.3.6, 1.3.8) were built but never released. ·
 
 ### 1.3.4 — 2026-11-01
 
-- 주소창을 누르면 즐겨 찾는 사이트가 현재 페이지와 최근 방문보다 위, 맨 위에 나옵니다. 주소창이
+- 주소창을 누르면 즐겨 찾는 사이트가 목록 맨 위, 현재 페이지와 최근 방문 기록보다 앞에 나옵니다. 주소창이
   위에 있든 아래에 있든 목록이 같은 순서로 나옵니다.
 - 즐겨 찾는 사이트 타일을 옆으로 밀 때 가장자리에 어두운 그림자가 생기던 문제를 고쳤습니다.
 
@@ -106,4 +105,4 @@ Versions missing from the list (1.3.6, 1.3.8) were built but never released. ·
 - `https`가 제대로 동작하지 않는 사이트는 오류 페이지에서 멈추지 않고 다른 브라우저처럼 `http`로
   엽니다. 먼저 `https`로 시도하는 것은 그대로이고, `https` 페이지는 평문 HTTP로 아무것도 불러오지
   않습니다.
-- 개인정보처리방침에 이 내용을 반영했으며, 변경 알림이 한 번 표시됩니다.
+- 개인정보 처리방침에 이 내용을 반영했으며, 변경 알림이 한 번 표시됩니다.
