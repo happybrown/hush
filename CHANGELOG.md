@@ -4,6 +4,10 @@
 
 ## English
 
+### 1.3.9 — 2026-11-01
+
+- The buttons at the bottom of the tab overview (Close all, New tab, incognito) are lower and lighter, leaving more room for your tabs.
+
 ### 1.3.7 — 2026-11-01
 
 - No changes to the app itself. This version is the first one built and published automatically from the source, signed with the same key as every earlier release.
@@ -52,6 +56,10 @@
 - The privacy policy says so; you'll see a one-time notice of the change.
 
 ## 한국어
+
+### 1.3.9 — 2026-11-01
+
+- 탭 화면 아래의 버튼(모두 닫기, 새 탭, 시크릿)을 낮고 가볍게 다듬어 탭이 보이는 자리가 넓어졌습니다.
 
 ### 1.3.7 — 2026-11-01
 

@@ -166,7 +166,7 @@ Android 7.0 이상 · 10개 언어 · 라이트·다크 모드
 
 ## 내려받기
 
-**[Hush 1.3.7](releases/1.3.7/Hush-1.3.7.apk)** · 3.4 MB · Android 7.0 이상 ·
+**[Hush 1.3.9](releases/1.3.9/Hush-1.3.9.apk)** · 3.4 MB · Android 7.0 이상 ·
 [새로운 점](CHANGELOG.md)
 
 1. 휴대전화에서 APK를 내려받아 엽니다.
@@ -180,12 +180,12 @@ PIP 모드는 Android 8.0, 런처 바로가기는 Android 7.1부터 쓸 수 있�
 모든 버전은 같은 키로 서명됩니다. Android는 다른 키로 서명된 업데이트를 거부하므로, Hush 위에
 설치되는 APK는 여기서 나온 것입니다.
 
-- APK SHA-256: `2c5a657113ad4d5a0228842133ab5d79d31b6a88c4654d129ecf6ab8435952a5`
+- APK SHA-256: `bd8a887324ead1fbe3f3e36f5f8676162baaca9e16a8b3ba80ed991d245971bf`
 - 서명 인증서 SHA-256: `00:37:AE:C5:11:EF:6B:A7:37:50:6D:24:BD:AC:64:54:04:EE:37:1E:F1:F1:4D:F2:4A:FC:B6:5F:D3:67:8E:52`
 
 ```sh
-shasum -a 256 Hush-1.3.7.apk
-apksigner verify --print-certs Hush-1.3.7.apk
+shasum -a 256 Hush-1.3.9.apk
+apksigner verify --print-certs Hush-1.3.9.apk
 ```
 
 ## 개인정보
