@@ -6,6 +6,7 @@
 
 ### 1.3.9 — 2026-11-01
 
+- When you tap the address bar, your bookmarks (or most visited sites) and your history now sit in two sections, each under its own heading.
 - The buttons at the bottom of the tab overview (Close all, New tab, incognito) are lower and lighter, leaving more room for your tabs.
 
 ### 1.3.7 — 2026-11-01
@@ -59,6 +60,7 @@
 
 ### 1.3.9 — 2026-11-01
 
+- 주소창을 누르면 북마크(또는 자주 방문한 사이트)와 방문 기록이 각자 제목이 붙은 두 섹션으로 나뉘어 나옵니다.
 - 탭 화면 아래의 버튼(모두 닫기, 새 탭, 시크릿)을 낮고 가볍게 다듬어 탭이 보이는 자리가 넓어졌습니다.
 
 ### 1.3.7 — 2026-11-01
