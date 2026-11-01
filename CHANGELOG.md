@@ -4,6 +4,10 @@
 
 ## English
 
+### 1.3.7 — 2026-11-01
+
+- No changes to the app itself. This version is the first one built and published automatically from the source, signed with the same key as every earlier release.
+
 ### 1.3.5 — 2026-11-01
 
 - **The address bar tucks into a notch.** While you read, the page runs to the edge of the
@@ -48,6 +52,10 @@
 - The privacy policy says so; you'll see a one-time notice of the change.
 
 ## 한국어
+
+### 1.3.7 — 2026-11-01
+
+- 앱 자체에는 바뀐 점이 없습니다. 소스에서 자동으로 빌드·배포한 첫 버전이며, 이전 버전과 같은 키로 서명되었습니다.
 
 ### 1.3.5 — 2026-11-01
 

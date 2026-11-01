@@ -167,7 +167,7 @@ Android 7.0+ · 10 languages · light and dark
 
 ## Download
 
-**[Hush 1.3.5](releases/1.3.5/Hush-1.3.5.apk)** · 3.4 MB · Android 7.0 or later ·
+**[Hush 1.3.7](releases/1.3.7/Hush-1.3.7.apk)** · 3.4 MB · Android 7.0 or later ·
 [what's new](CHANGELOG.md)
 
 1. Download the APK on your phone and open it.
@@ -181,12 +181,12 @@ Picture-in-picture needs Android 8.0, launcher shortcuts Android 7.1.
 Every version is signed with the same key. Android refuses an update signed by any other, so
 an APK that installs over Hush came from here.
 
-- APK SHA-256: `231d715c312a33bcba258ffd8288f4b4e1cf8e333d58f57462fabb183b202c6a`
+- APK SHA-256: `2c5a657113ad4d5a0228842133ab5d79d31b6a88c4654d129ecf6ab8435952a5`
 - Signing certificate SHA-256: `00:37:AE:C5:11:EF:6B:A7:37:50:6D:24:BD:AC:64:54:04:EE:37:1E:F1:F1:4D:F2:4A:FC:B6:5F:D3:67:8E:52`
 
 ```sh
-shasum -a 256 Hush-1.3.5.apk
-apksigner verify --print-certs Hush-1.3.5.apk
+shasum -a 256 Hush-1.3.7.apk
+apksigner verify --print-certs Hush-1.3.7.apk
 ```
 
 ## Privacy
