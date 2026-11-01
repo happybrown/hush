@@ -4,6 +4,12 @@
 
 ## English
 
+### 1.3.4 — 2026-11-01
+
+- Your favourite sites now head the list when you tap the address bar, above the current page
+  and recent history, and the list reads the same way whether the bar is at the top or bottom.
+- No more dark shadow over the favourite tiles as you swipe through them.
+
 ### 1.3.3 — 2026-11-01
 
 - **Bookmarks up front.** New tabs show your bookmarks above the sites you visit most, and
@@ -29,6 +35,12 @@
 - The privacy policy says so; you'll see a one-time notice of the change.
 
 ## 한국어
+
+### 1.3.4 — 2026-11-01
+
+- 주소창을 누르면 즐겨 찾는 사이트가 현재 페이지와 최근 방문보다 위, 맨 위에 나옵니다. 주소창이
+  위에 있든 아래에 있든 목록이 같은 순서로 나옵니다.
+- 즐겨 찾는 사이트 타일을 옆으로 밀 때 가장자리에 어두운 그림자가 생기던 문제를 고쳤습니다.
 
 ### 1.3.3 — 2026-11-01
 
