@@ -9,7 +9,7 @@
 
 ## 내려받기
 
-**[Hush 1.4.1](releases/1.4.1/Hush-1.4.1.apk)** · 3.4 MB · Android 7.0 이상 · [새로운 점](CHANGELOG.md) ·
+**[Hush 1.4.2](releases/1.4.2/Hush-1.4.2.apk)** · 3.5 MB · Android 7.0 이상 · [새로운 점](CHANGELOG.md) ·
 [이전 버전](releases)
 
 1. 휴대전화에서 APK를 내려받아 엽니다.
@@ -37,12 +37,12 @@
 
 모든 버전은 같은 키로 서명됩니다. Android는 다른 키로 서명된 업데이트를 거부합니다.
 
-- APK SHA-256: `08f6db05f5820f0daaab5378d174c42110b94f11d872deb19c58f6354f415b6b`
+- APK SHA-256: `a3e077e8e0d843958c0a40f88942d9130df9cb7c229f24ee58eb2a36bbf43eac`
 - 서명 인증서 SHA-256: `00:37:AE:C5:11:EF:6B:A7:37:50:6D:24:BD:AC:64:54:04:EE:37:1E:F1:F1:4D:F2:4A:FC:B6:5F:D3:67:8E:52`
 
 ```sh
-shasum -a 256 Hush-1.4.1.apk
-apksigner verify --print-certs Hush-1.4.1.apk
+shasum -a 256 Hush-1.4.2.apk
+apksigner verify --print-certs Hush-1.4.2.apk
 ```
 
 </details>
