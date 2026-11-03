@@ -7,6 +7,12 @@ Versions 1.3.6 and 1.3.8 were built but never released. ·
 
 ## English
 
+### 1.4.8 — 2026-11-03
+
+- Updates are now yours to install. Download update fetches the new version from GitHub, checks it, and saves it to your Downloads folder only if it matches the checksum published with the release and is signed by the same key as your Hush. The sheet shows each check with a tick and opens Downloads, where you tap the file to install it, as you installed Hush.
+- Hush no longer asks for the permission to install apps (REQUEST_INSTALL_PACKAGES), which 1.4.7 used to install updates itself. If you allowed it, you can turn "Install unknown apps" off for Hush in Android's settings.
+- Hush deletes the saved file once that version is running. The privacy policy says so; you will see a notice about the change once.
+
 ### 1.4.7 — 2026-11-03
 
 - Updates in the app: when a new version is out, its notice shows what changed in every version since yours, and Update downloads it, checks it and hands it to Android to install. Nothing is installed unless the file matches the checksum published with the release and is signed by the same key as your Hush. Android asks once to allow Hush to install apps, and asks you to confirm each installation. You can also skip a version.
@@ -128,6 +134,12 @@ Versions 1.3.6 and 1.3.8 were built but never released. ·
 - The privacy policy says so; you'll see a one-time notice of the change.
 
 ## 한국어
+
+### 1.4.8 — 2026-11-03
+
+- 업데이트 설치는 이제 이용자가 합니다. '업데이트 내려받기'를 누르면 GitHub에서 새 버전을 받아 확인하고, 릴리스와 함께 공개된 체크섬과 일치하고 지금 Hush와 같은 키로 서명된 경우에만 다운로드 폴더에 저장합니다. 확인한 항목을 체크 표시로 보여 주고 다운로드 폴더를 열어 주니, Hush를 처음 설치할 때처럼 파일을 눌러 설치하면 됩니다.
+- Hush는 더 이상 앱 설치 권한(REQUEST_INSTALL_PACKAGES)을 요청하지 않습니다. 1.4.7에서 업데이트를 직접 설치하는 데 쓰던 권한입니다. 허용해 두셨다면 안드로이드 설정에서 Hush의 '출처를 알 수 없는 앱 설치'를 끄셔도 됩니다.
+- 저장한 파일은 그 버전이 실행되면 Hush가 지웁니다. 개인정보처리방침에 이 내용을 적었고, 변경 안내가 한 번 표시됩니다.
 
 ### 1.4.7 — 2026-11-03
 
