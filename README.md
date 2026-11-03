@@ -9,7 +9,7 @@ analytics or ad SDKs.
 
 ## Download
 
-**[Hush 1.4.6](releases/1.4.6/Hush-1.4.6.apk)** · 3.5 MB · Android 7.0 or later · [What's new](CHANGELOG.md) ·
+**[Hush 1.4.7](releases/1.4.7/Hush-1.4.7.apk)** · 3.5 MB · Android 7.0 or later · [What's new](CHANGELOG.md) ·
 [Earlier versions](releases)
 
 1. Download the APK on your phone and open it.
@@ -39,12 +39,12 @@ Privacy policy.
 
 Every version is signed with the same key; Android refuses an update signed by any other.
 
-- APK SHA-256: `845b05c6a41f899b98b493d36f584dc9c227ad40d342bc2b1a38be29fefc01eb`
+- APK SHA-256: `7e02beb8c04da82dedc554f3ef52943c4f2c4c383a8060ce113d7b2f2ac1846d`
 - Signing certificate SHA-256: `00:37:AE:C5:11:EF:6B:A7:37:50:6D:24:BD:AC:64:54:04:EE:37:1E:F1:F1:4D:F2:4A:FC:B6:5F:D3:67:8E:52`
 
 ```sh
-shasum -a 256 Hush-1.4.6.apk
-apksigner verify --print-certs Hush-1.4.6.apk
+shasum -a 256 Hush-1.4.7.apk
+apksigner verify --print-certs Hush-1.4.7.apk
 ```
 
 </details>
